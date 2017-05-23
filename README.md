@@ -1,6 +1,7 @@
-# fsdse-python-assignment-177
-## Print all valid combinations of n-pairs of parentheses
+# Print all valid combinations of n-pairs of parentheses
 
+
+##
 * Is the input an integer representing the number of pairs?
   * Yes
 * Can we assume the inputs are valid?
